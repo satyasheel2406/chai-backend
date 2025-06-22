@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/satyasheel2406/chai-backend1/issues"
   },
-  "homepage": "https://github.com/satyasheel2406/chai-backend1#readme"
+  "homepage": "https://github.com/satyasheel2406/chai-backend1#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
